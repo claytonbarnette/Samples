@@ -3,7 +3,7 @@ Sample extensions
 
 These samples demonstrate techniques for building an extension with an HTML5 UI and behavior implemented in JavaScript. 
 
-The samples are kept up to date with the latest CC2018 host applications. Make sue to check the `manifest.xml` file for each sample's compatible host applications. To run the extensions you must have the compatible host application installed. Requirements for each sample are listed below.
+The samples are kept up to date with the latest CC2018 host applications. Make sure to check the `manifest.xml` file for each sample's compatible host applications. To run the extensions you must have the compatible host application installed. Requirements for each sample are listed below.
  
 Each version of CEP comes with its own samples in the [CEP-Resources repository](https://github.com/Adobe-CEP/CEP-Resources). Under each version name, `CEP_N.x`, you will find the version specific samples, which cover broad use cases and topics of CEP. 
 
